@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ChatApp\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj": {}
+    "E:\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj": {}
   },
   "projects": {
-    "E:\\ChatApp\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj": {
+    "E:\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ChatApp\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj",
+        "projectUniqueName": "E:\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj",
         "projectName": "MVCChatApp",
-        "projectPath": "E:\\ChatApp\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj",
-        "packagesPath": "C:\\Users\\akmet\\.nuget\\packages\\",
-        "outputPath": "E:\\ChatApp\\MVCChatApp\\MVCChatApp\\obj\\",
+        "projectPath": "E:\\MVCChatApp\\MVCChatApp\\MVCChatApp.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "E:\\MVCChatApp\\MVCChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\akmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
